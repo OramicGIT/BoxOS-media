@@ -19,9 +19,9 @@
   </style>
 </head>
 <body>
-  <h1>Hello, BoxOS!</h1>
+  <h1>Hello World! (a test BoxOS app)</h1>
   <p>Clicks: <span id="count">0</span></p>
-  <button id="btn">Click me</button>
+  <button id="btn">Click me<!/button>
 
   <script>
     let n = 0;
@@ -29,7 +29,6 @@
     document.getElementById("btn").addEventListener("click", () => {
       n++;
       count.textContent = n;
-      parent.postMessage({ type: "boxos:notify", text: `Clicked ${n}×` }, "*");
     });
   </script>
 </body>
