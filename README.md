@@ -1,6 +1,4 @@
 # BoxOS App Store:
-(To run apps, open terminal, and execute the command. To run it again, run it again)
+(To run apps, open the link inside Conkyar - the OS browser)
 
-Hello World: algr eval(atob("ZmV0Y2goJ2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9PcmFtaWNHSVQvQm94T1MtbWVkaWEvcmVmcy9oZWFkcy9tYWluL2hlbGxvd29ybGQuYXBwLmh0bWwnKS50aGVuKHI9PnIudGV4dCgpKS50aGVuKG
-g9PldpbmRvd01hbmFnZXIuY3JlYXRlQ3VzdG9tKCdoZWxsb3dvcmxkJywn8J+RiyBIZWxsbyBXb3JsZCcsJzxpZnJhbWUgc3R5bGU9IndpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7Ym9yZGVyOjAiIHNhbmRib3g9ImFsbG93LXNjcmlwdHMiIHNyY2RvYz0iJytoLnJlcG
-xhY2UoLyYvZywnJmFtcDsnKS5yZXBsYWNlKC8iL2csJyZxdW90OycpKyciPjwvaWZyYW1lPicsNDgwLDMyMCkp"))
+Hello World: https://raw.githubusercontent.com/OramicGIT/BoxOS-media/refs/heads/main/helloworld.app.html
